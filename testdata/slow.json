@@ -1,0 +1,15 @@
+{
+  "isHealthy":false,
+  "rateLimitInSeconds": "10",
+  "blamedUsers":["caroslosfoscolos"],
+  "blamedTeams":["testteam"],
+  "genericBlameText":"The slow build is broken :(",
+  "genericBlameTitle":"Slow Build Broken",
+  "genericBlameIcon":"warn",
+  "teamBlameText":"YOUR TEAM BROKE THE SLOW BUILD - YOU MUST INVESTIGATE AND REVERT YOUR BREAKING COMMIT OR FIX :(",
+  "teamBlameTitle":"YOUR TEAM BROKE THE SLOW BUILD",
+  "teamBlameIcon":"warn",
+  "userBlameText":"YOU BROKE THE SLOW BUILD - YOU MUST INVESTIGATE AND REVERT YOUR BREAKING COMMIT OR FIX :(",
+  "userBlameTitle":"YOU BROKE THE SLOW BUILD",
+  "userBlameIcon":"warn"
+}

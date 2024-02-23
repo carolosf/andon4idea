@@ -1,0 +1,4 @@
+[
+  {"name":"main", "url":"http://localhost:8080/main.json", "contributeToOverallStatus": true},
+  {"name":"slow", "url":"http://localhost:8080/slow.json", "contributeToOverallStatus": false}
+]
