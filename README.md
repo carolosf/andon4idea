@@ -1,10 +1,13 @@
 # Andon IntelliJ Plugin
 `Andon (English: ‘Sign’ or ‘Signal’): A visual aid that highlights where action is required.` [Andon](https://mag.toyota.co.uk/andon-toyota-production-system/)
-The Andon IntelliJ plugin is a visual aid that informs IntelliJ users when an action is required.
+
+The Andon IntelliJ/Idea plugin is a visual aid that informs Jetbrains IDE users when an action is required.
 
 ## Example usages
 Informing users of a monorepo that there is a build error in the main build pipeline so that they can take the action of reverting the breaking code or fixing it.
+
 Informing users of a monorepo that there is a build error in slow integration tests.
+
 Informing users of a small repo that there is a build error.
 
 ## Requirements
@@ -73,7 +76,7 @@ COLLECTION: Noto Emojis
 LICENSE: Apache License
 AUTHOR: googlefonts
 
-[green-circle](https://www.svgrepo.com/svg/396579/green-circle
+[green-circle](https://www.svgrepo.com/svg/396579/green-circle)
 COLLECTION: Noto Emojis
 LICENSE: Apache License
 AUTHOR: googlefonts
